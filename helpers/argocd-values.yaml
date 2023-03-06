@@ -1155,7 +1155,7 @@ server:
       additionalAnnotations: {}
       project: default
       source:
-        repoURL: https://github.com/dmitrii-dmnk/argocd-vault-plugin-demo.git
+        repoURL: https://github.com/dtrdnk/argocd-vault-plugin-demo.git
         targetRevision: master
         path: apps
         helm:
